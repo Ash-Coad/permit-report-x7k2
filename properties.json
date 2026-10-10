@@ -1,0 +1,25 @@
+{
+  "properties": [
+    {
+      "nickname": "703 Lavender",
+      "address": "703 E Lavender Ave",
+      "street_number": "703",
+      "street_name": "E Lavender Ave",
+      "portal": "durham"
+    },
+    {
+      "nickname": "1100 Clanton",
+      "address": "1100 Clanton St",
+      "street_number": "1100",
+      "street_name": "Clanton St",
+      "portal": "raleigh"
+    },
+    {
+      "nickname": "3905 Sherman",
+      "address": "3905 Sherman Ave",
+      "street_number": "3905",
+      "street_name": "Sherman Ave",
+      "portal": "raleigh"
+    }
+  ]
+}
