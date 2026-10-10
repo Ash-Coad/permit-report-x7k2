@@ -20,6 +20,34 @@
       "street_number": "3905",
       "street_name": "Sherman Ave",
       "portal": "raleigh"
+    },
+    {
+      "nickname": "1708 Athens",
+      "address": "1708 Athens Ave",
+      "street_number": "1708",
+      "street_name": "Athens Ave",
+      "portal": "durham"
+    },
+    {
+      "nickname": "601 W Markham",
+      "address": "601 W Markham Ave",
+      "street_number": "601",
+      "street_name": "W Markham Ave",
+      "portal": "durham"
+    },
+    {
+      "nickname": "1704 Sprunt Ave",
+      "address": "1704 Sprunt Ave",
+      "street_number": "1704",
+      "street_name": "Sprunt Ave",
+      "portal": "durham"
+    },
+    {
+      "nickname": "801 Colonial",
+      "address": "801 Colonial",
+      "street_number": "801",
+      "street_name": "Colonial",
+      "portal": "durham"
     }
   ]
 }
