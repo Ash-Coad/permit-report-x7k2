@@ -48,6 +48,48 @@
       "street_number": "801",
       "street_name": "Colonial",
       "portal": "durham"
+    },
+    {
+      "nickname": "901 Demerius",
+      "address": "901 Demerius St",
+      "street_number": "901",
+      "street_name": "Demerius St",
+      "portal": "durham"
+    },
+    {
+      "nickname": "903 Demerius",
+      "address": "903 Demerius St",
+      "street_number": "903",
+      "street_name": "Demerius St",
+      "portal": "durham"
+    },
+    {
+      "nickname": "1400 Norton",
+      "address": "1400 Norton St",
+      "street_number": "1400",
+      "street_name": "Norton St",
+      "portal": "durham"
+    },
+    {
+      "nickname": "1009 Washington",
+      "address": "1009 Washington St",
+      "street_number": "1009",
+      "street_name": "Washington St",
+      "portal": "durham"
+    },
+    {
+      "nickname": "1011 Washington",
+      "address": "1011 Washington St",
+      "street_number": "1011",
+      "street_name": "Washington St",
+      "portal": "durham"
+    },
+    {
+      "nickname": "1013 Washington",
+      "address": "1013 Washington St",
+      "street_number": "1013",
+      "street_name": "Washington St",
+      "portal": "durham"
     }
   ]
 }
