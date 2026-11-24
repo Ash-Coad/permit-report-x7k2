@@ -30,9 +30,9 @@
     },
     {
       "nickname": "601 W Markham",
-      "address": "601 W Markham Ave",
+      "address": "601 Markham Ave",
       "street_number": "601",
-      "street_name": "W Markham Ave",
+      "street_name": "Markham Ave",
       "portal": "durham"
     },
     {
@@ -44,9 +44,9 @@
     },
     {
       "nickname": "801 Colonial",
-      "address": "801 Colonial",
+      "address": "801 Colonial St",
       "street_number": "801",
-      "street_name": "Colonial",
+      "street_name": "Colonial St",
       "portal": "durham"
     },
     {
