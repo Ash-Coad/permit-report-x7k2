@@ -5,91 +5,193 @@
       "address": "703 E Lavender Ave",
       "street_number": "703",
       "street_name": "E Lavender Ave",
-      "portal": "durham"
+      "portal": "durham",
+      "county_pin": "0832474552",
+      "parcel_id": "120100",
+      "county_check": {
+        "status": "differs",
+        "county_address": "703 E Lavender Ave Unit 7",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     },
     {
       "nickname": "1100 Clanton",
       "address": "1100 Clanton St",
       "street_number": "1100",
       "street_name": "Clanton St",
-      "portal": "raleigh"
+      "portal": "raleigh",
+      "county_pin": "0794109201",
+      "county_check": {
+        "status": "match",
+        "county_address": "1100 Clanton St",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     },
     {
       "nickname": "3905 Sherman",
       "address": "3905 Sherman Ave",
       "street_number": "3905",
       "street_name": "Sherman Ave",
-      "portal": "raleigh"
+      "portal": "raleigh",
+      "county_pin": "0794108251",
+      "county_check": {
+        "status": "match",
+        "county_address": "3905 Sherman Ave",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     },
     {
       "nickname": "1708 Athens",
       "address": "1708 Athens Ave",
       "street_number": "1708",
       "street_name": "Athens Ave",
-      "portal": "durham"
+      "portal": "durham",
+      "county_pin": "0830270466",
+      "parcel_id": "246672",
+      "county_check": {
+        "status": "match",
+        "county_address": "1708 Athens Ave",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     },
     {
       "nickname": "601 W Markham",
-      "address": "601 Markham Ave",
+      "address": "601 E Markham Ave",
       "street_number": "601",
-      "street_name": "Markham Ave",
-      "portal": "durham"
+      "street_name": "E Markham Ave",
+      "portal": "durham",
+      "county_pin": "0832324374",
+      "parcel_id": "109394",
+      "county_check": {
+        "status": "match",
+        "county_address": "601 E Markham Ave",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     },
     {
       "nickname": "1704 Sprunt Ave",
       "address": "1704 Sprunt Ave",
       "street_number": "1704",
       "street_name": "Sprunt Ave",
-      "portal": "durham"
+      "portal": "durham",
+      "county_pin": "0822461587",
+      "parcel_id": "101002",
+      "county_check": {
+        "status": "match",
+        "county_address": "1704 Sprunt Ave",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     },
     {
       "nickname": "801 Colonial",
       "address": "801 Colonial St",
       "street_number": "801",
       "street_name": "Colonial St",
-      "portal": "durham"
+      "portal": "durham",
+      "county_pin": "0832329427",
+      "parcel_id": "245992",
+      "county_check": {
+        "status": "differs",
+        "county_address": "801 A Colonial St",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     },
     {
       "nickname": "901 Demerius",
       "address": "901 Demerius St",
       "street_number": "901",
       "street_name": "Demerius St",
-      "portal": "durham"
+      "portal": "durham",
+      "county_pin": "0822738286",
+      "parcel_id": "245013",
+      "county_check": {
+        "status": "match",
+        "county_address": "901 Demerius St",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     },
     {
       "nickname": "903 Demerius",
       "address": "903 Demerius St",
       "street_number": "903",
       "street_name": "Demerius St",
-      "portal": "durham"
+      "portal": "durham",
+      "county_pin": "0822738236",
+      "parcel_id": "245012",
+      "county_check": {
+        "status": "match",
+        "county_address": "903 Demerius St",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     },
     {
       "nickname": "1400 Norton",
       "address": "1400 Norton St",
       "street_number": "1400",
       "street_name": "Norton St",
-      "portal": "durham"
+      "portal": "durham",
+      "county_pin": "0822745467",
+      "parcel_id": "245015",
+      "county_check": {
+        "status": "differs",
+        "county_address": "1400 A Norton St",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     },
     {
       "nickname": "1009 Washington",
       "address": "1009 Washington St",
       "street_number": "1009",
       "street_name": "Washington St",
-      "portal": "durham"
+      "portal": "durham",
+      "county_pin": "0822926308",
+      "parcel_id": "244812",
+      "county_check": {
+        "status": "match",
+        "county_address": "1009 Washington St",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     },
     {
       "nickname": "1011 Washington",
       "address": "1011 Washington St",
       "street_number": "1011",
       "street_name": "Washington St",
-      "portal": "durham"
+      "portal": "durham",
+      "county_pin": "0822925492",
+      "parcel_id": "244811",
+      "county_check": {
+        "status": "match",
+        "county_address": "1011 Washington St",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     },
     {
       "nickname": "1013 Washington",
       "address": "1013 Washington St",
       "street_number": "1013",
       "street_name": "Washington St",
-      "portal": "durham"
+      "portal": "durham",
+      "county_pin": "0822925499",
+      "parcel_id": "244810",
+      "county_check": {
+        "status": "match",
+        "county_address": "1013 Washington St",
+        "source": "Wake/Durham County address points",
+        "checked": "2026-11-24"
+      }
     }
   ]
 }
