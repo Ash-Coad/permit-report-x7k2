@@ -1,0 +1,14 @@
+{
+ "format": "lotline-recipients-v1",
+ "kdf": {
+  "name": "PBKDF2",
+  "hash": "SHA-256",
+  "iterations": 310000,
+  "salt": "NOhIiDy7WKJ561y2WLM5UA=="
+ },
+ "cipher": {
+  "name": "AES-GCM",
+  "iv": "8izey5HXE5fZdGuG"
+ },
+ "data": "t6OjQfSPci3t7S5JwBIGgujO2XKMVM1XMW2szXyaK9nGBGJr458HE9AyNKQ2t+GAXq3C8w0K2sJgAw96pghvhYPRXcFfTV0evPKGlmKY3C+ls419wNnrueWgj93Zyok7QAG3uBIc9b6Ba4QIjzF4wDfM6s4Q0iGG"
+}
